@@ -1,7 +1,7 @@
 // complete the given function
 
 function palindrome(str){
-       var str2= str.lowercase();
+     var str2= str.toLowerCase();
 	var i=0;
 	var j=str2.length-1;
 	while(i<j)
